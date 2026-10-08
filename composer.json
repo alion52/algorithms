@@ -1,0 +1,25 @@
+{
+    "name": "alion52/algorithms",
+    "description": "Algorithms and data structures in PHP",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Algorithms\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Algorithms\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}

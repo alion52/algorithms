@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"Algorithms\\Tests\\LinkedList\\CycleDetectorTest::testNoCycle":0.003,"Algorithms\\Tests\\LinkedList\\CycleDetectorTest::testHasCycle":0,"Algorithms\\Tests\\Queue\\CircularQueueTest::testEnqueueDequeue":0,"Algorithms\\Tests\\Queue\\CircularQueueTest::testIsFull":0,"Algorithms\\Tests\\Queue\\CircularQueueTest::testWrapAround":0}}
